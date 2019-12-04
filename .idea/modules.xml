@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Contest/Contest.iml" filepath="$PROJECT_DIR$/Contest/Contest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem/Problem.iml" filepath="$PROJECT_DIR$/Problem/Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/biweekly14/biweekly14.iml" filepath="$PROJECT_DIR$/Contest/biweekly14/biweekly14.iml" />
     </modules>
   </component>
 </project>
